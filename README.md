@@ -1,11 +1,10 @@
 # Sostream
- پیاده سازی مقاله Sostream2012
+ Implementation of Sostream 2012 paper in Python.
 
- متن مقاله در فایل isaksson2012.pdf میباشد.
-
-کد در فایل Sostream.py میباشد.
+ The paper can be found under the name "isaksson2012.pdf".
 
 
-نتایج و خروجی اجرای الگوریتم sostream روی دیتاست های Dataset_1 و Dataset_2 به ترتیب در فولدر های dataset 1 و dataset 2 میباشد.
+Results are in folders "dataset 1" and "dataset 2", each containing the results for "Dataset_1 .csv" and "Dataset_2 .csv" respectively.
+
 
  
